@@ -1,0 +1,33 @@
+.container{
+    background-image: url("./can.PNG");
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 900px;
+
+}
+.text{
+    color: white;
+    text-transform: capitalize;
+    padding-left: 20px;
+}
+.text h2 {
+    font-size: 30px;
+    padding-top: 200px;
+}
+.text h1{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.price{
+    padding-left: 20px;
+    font-size: 20px;
+    color: white;
+}
+.price sub{
+    color: black;
+}
+.hr{
+    width: 750px;
+
+    
+}
