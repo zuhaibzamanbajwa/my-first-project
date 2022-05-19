@@ -1,0 +1,41 @@
+.container{
+    border: 2px solid wheat;
+    width: 450px;
+}
+.img img{
+    width: 400px;padding-left: 30px;
+}
+.pic img{
+    width: 130px;
+    border-radius: 50%;
+    margin-top: -40px;
+    margin-left: -20px;
+    
+}
+.line{
+    display: flex;
+    background-color: wheat;
+    margin-top: -4px;
+    margin-right: 20px;
+    margin-left: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 100px;
+    /* margin-bottom: 20px; */
+}
+.text h2{
+    padding-left: 20px;
+    justify-content: space-between;
+    text-align: center
+    ;
+}
+.trd h3{
+    padding-left: 100px;
+}
+.txt{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-align: left;
+    padding-left: 70px;
+    
+}
